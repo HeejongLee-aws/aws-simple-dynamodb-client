@@ -1,0 +1,29 @@
+{
+  "name": "aws-simple-dynamodb-client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeejongLee-aws/aws-simple-dynamodb-client.git"
+  },
+  "keywords": [
+    "dynamodb",
+    "aws"
+  ],
+  "author": "Lee, Heejong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeejongLee-aws/aws-simple-dynamodb-client/issues"
+  },
+  "homepage": "https://github.com/HeejongLee-aws/aws-simple-dynamodb-client#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1018.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6"
+  }
+}
