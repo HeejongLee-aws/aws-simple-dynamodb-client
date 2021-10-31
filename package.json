@@ -22,8 +22,11 @@
   "homepage": "https://github.com/HeejongLee-aws/aws-simple-dynamodb-client#readme",
   "dependencies": {
     "aws-sdk": "^2.1018.0"
+<<<<<<< HEAD
   },
   "devDependencies": {
     "@types/node": "^16.11.6"
+=======
+>>>>>>> refs/remotes/origin/main
   }
 }
